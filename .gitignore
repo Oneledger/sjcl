@@ -6,6 +6,7 @@ doc_private/
 compress/compiler.jar
 compress/compiler-latest.zip
 .idea/
+.DS_Store
 
 # Swap Files #
 # ########## #
