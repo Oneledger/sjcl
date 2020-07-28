@@ -5,6 +5,7 @@ doc/
 doc_private/
 compress/compiler.jar
 compress/compiler-latest.zip
+.idea/
 
 # Swap Files #
 # ########## #
