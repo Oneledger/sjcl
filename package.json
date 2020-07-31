@@ -26,8 +26,12 @@
   "engines": {
     "node": "*"
   },
+  "dependencies": {
+    "expo": "38.0.8",
+    "expo-crypto": "8.2.1"
+  },
   "devDependencies": {
     "eslint": "^2.11.1",
-    "jsdoc": "3.4.0"
+    "jsdoc": "^3.6.5"
   }
 }
